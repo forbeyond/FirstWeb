@@ -16,7 +16,7 @@ public class FirstWebApp {
 		return "Hello World!";
 	}
 	
-	public static void main (String[] args) {
-		SpringApplication.run(FirstWebApp.class, args);
-	}
+//	public static void main (String[] args) {
+//		SpringApplication.run(FirstWebApp.class, args);
+//	}
 }
